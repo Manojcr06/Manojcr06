@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Manojcr06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Manoj Kumar C R , Information Science Engineer 
+- 👀 I’m interested in React Native, Java, Python, Machine Learning
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Advanced Technologies 
+- 📫 How to reach me ... manojkumar950348@gmail.com
 
 <!---
 Manojcr06/Manojcr06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
