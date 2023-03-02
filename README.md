@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoj Kumar C R , Information Science Engineer 
 - 👀 I’m interested in React Native, Java, Python, Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I'm a Software Development Engineer - Data Scientist
 - 💞️ I’m looking to collaborate on Advanced Technologies 
 - 📫 How to reach me ... manojkumar950348@gmail.com
 
